@@ -3,7 +3,7 @@
 
 
 <a href="https://sungone-develop-study.tistory.com/" target="_blank">
-<img width="{80%}" src="https://user-images.githubusercontent.com/86272526/148670536-5084428d-1a6b-470e-87e5-51d5b2bc335d.jpg"/>
+<img width="{80%}" src="https://user-images.githubusercontent.com/86272526/151702688-465ba49a-9338-4fc8-911c-1c0889ea83ce.png"/>
 </a>
 
 
